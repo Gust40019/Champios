@@ -11,4 +11,5 @@ body{
 
 .cabecalho{
     background-color: #1B32A9;
+    display: flex;
 }
