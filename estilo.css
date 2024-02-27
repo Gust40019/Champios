@@ -1,5 +1,8 @@
 body{
     background-color: rgb(133, 52, 209);
-    color: aliceblue;
+    color: black
 }
 
+.cabecalho{
+    background-color: #1B32A9;
+}
