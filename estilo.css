@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgb(133, 52, 209);
+    background-color: rgb(161, 117, 202);
     color: black
 }
 
@@ -28,7 +28,7 @@ body{
 .secao1{
  display: flex;
  align-items: center;
- justify-content: center;
+ justify-content: ;
 
 }
 
