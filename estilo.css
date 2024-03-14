@@ -6,7 +6,7 @@
 body{
     background-color: rgb(123, 50, 190);
     color: black
-    background-image: url(./capa-1\ 1.png);
+ 
 }
 
 .cabecalho{
@@ -31,7 +31,7 @@ body{
  align-items: center;
  justify-content: center;
  padding: 24px 0;
- 
+ background-image: url(./capa-1\ 1.png);
 } 
 
 .secao1-titulo{ 
