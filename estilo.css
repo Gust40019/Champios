@@ -53,4 +53,8 @@ padding: 24px;
       color: rgb(255, 255, 255);
 
 }
+.secao2-todos-times{
+      display: grid;
+      grid-template-columns:25% 25% 25% 25%;
+}
 
